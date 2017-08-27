@@ -2,7 +2,7 @@
 #Assignment 1 Full Stack Web Developer Nanodegree
 Source code for a Movie Trailer website.
 
-[b]USAGE [/b]
+**USAGE**
 
 Method 1:
 	Run entertainment_center.py using IDLE.
@@ -13,6 +13,6 @@ Method 2:
 	
 Click on the art work of each movie to watch the trailer.	
 
-[b]REQUIREMENTS [/b]
+**REQUIREMENTS**
 
 Make sure you are connected to the Internet.
